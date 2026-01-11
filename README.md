@@ -8,11 +8,11 @@ Popular extensions for Git users that will ease and improve your git flow and ex
 
 为Git用户收集的的流行扩展，它将提高你的Git使用体验，提供查看Git历史、Git日志、Git图标、文件历史等功能。
 
-**Homepage/主页**: [`https://xuangeaha.github.io/`](https://xuangeaha.github.io/)
+**Homepage/主页**: [`https://xuangeaha.github.io/`](https://www.xuangeaha.xyz/)
 
-**Repository/仓库**: [`https://github.com/Xuangeaha/Just-Enough-Git`](https://github.com/Xuangeaha/Just-Enough-Git)
+**Repository/仓库**: [`https://github.com/KamaoKat/Just-Enough-Git`](https://github.com/KamaoKat/Just-Enough-Git)
 
-**Issues/问题**: [`https://github.com/Xuangeaha/Just-Enough-Git/issues`](https://github.com/Xuangeaha/Just-Enough-Git/issues)
+**Issues/问题**: [`https://github.com/KamaoKat/Just-Enough-Git/issues`](https://github.com/KamaoKat/Just-Enough-Git/issues)
 
 **Changelog/更新日志**: [`https://marketplace.visualstudio.com/items/XuangeAha.just-enough-git/changelog`](https://marketplace.visualstudio.com/items/XuangeAha.just-enough-git/changelog)
 
@@ -20,7 +20,7 @@ Popular extensions for Git users that will ease and improve your git flow and ex
 
 **Download/下载**: [`https://marketplace.visualstudio.com/items?itemName=XuangeAha.just-enough-git`](https://marketplace.visualstudio.com/items?itemName=XuangeAha.just-enough-git)
 
-**Copyright (c) 2023 XuangeAha(轩哥啊哈OvO)**
+**Copyright (c) 2023-2026 KamaoKat(卡猫kat,XuangeAha(轩哥啊哈OvO))**
 
 ## Extension List 扩展列表
 
@@ -30,7 +30,7 @@ Popular extensions for Git users that will ease and improve your git flow and ex
 
 **Discription/说明**: Pull Request and Issue Provider for GitHub
 
-**Verison/版本**: 0.58.1
+**Verison/版本**: 0.124.1
 
 **Publisher/发布者**: GitHub
 
@@ -42,7 +42,7 @@ Popular extensions for Git users that will ease and improve your git flow and ex
 
 **Discription/说明**: Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more
 
-**Verison/版本**: 13.2.0
+**Verison/版本**: 17.8.1
 
 **Publisher/发布者**: GitKraken
 
@@ -54,7 +54,7 @@ Popular extensions for Git users that will ease and improve your git flow and ex
 
 **Discription/说明**: View git log, file history, compare branches or commits
 
-**Verison/版本**: 0.6.19
+**Verison/版本**: 0.6.20
 
 **Publisher/发布者**: Don Jayamanne
 
@@ -78,7 +78,7 @@ Popular extensions for Git users that will ease and improve your git flow and ex
 
 **Discription/说明**: See git blame information in the status bar.
 
-**Verison/版本**: 10.1.0
+**Verison/版本**: 11.2.0
 
 **Publisher/发布者**: Wade Anderson
 
@@ -90,7 +90,7 @@ Popular extensions for Git users that will ease and improve your git flow and ex
 
 **Discription/说明**: Lets you pull .gitignore templates from the [https://github.com/github/gitignore](https://github.com/github/gitignore) repository. Language support for .gitignore files.
 
-**Verison/版本**: 0.9.0
+**Verison/版本**: 0.10.0
 
 **Publisher/发布者**: CodeZombie
 

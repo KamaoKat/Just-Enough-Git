@@ -1,8 +1,8 @@
 # Change Log
 
-All notable changes to the "just-enough-git" extension pack will be documented in this file.
+## 2026.1 2026-01-11
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+Update author infromation.
 
 ## 2023.4.5 2023-05-14
 
@@ -10,7 +10,7 @@ Update `gallaryBanner`.
 
 ## 2023.4.4 2023-05-14
 
-Add `galleryBanner` to the vsmarketplace page.
+Add `galleryBanner` to the VSMarketplace page.
 
 ## 2023.4.3 2023-03-24
 
@@ -76,7 +76,7 @@ Update the `keywords`.
 
 ## 0.0.4 2023-02-09
 
-Add `icon` to the pack.
+Add icon to the pack.
 
 ## 0.0.3 2023-02-09
 
